@@ -1,0 +1,24 @@
+channel,genre,duration_min
+Band,Esportivo,210
+Band,Jornalismo,505
+Band,Novela,100
+Band,Religioso,420
+Band,Variedades,205
+Globo,Documentário,50
+Globo,Esportivo,25
+Globo,Filme,295
+Globo,Humor,40
+Globo,Jornalismo,495
+Globo,Novela,365
+Globo,Reality,35
+Globo,Variedades,135
+Record TV,Jornalismo,930
+Record TV,Novela,210
+Record TV,Religioso,255
+Record TV,Série/Drama,45
+SBT,Entrevista,30
+SBT,Humor,60
+SBT,Jornalismo,975
+SBT,Novela,255
+SBT,Série/Drama,60
+SBT,Variedades,60

@@ -1,0 +1,2510 @@
+{
+  "schedule": [
+    {
+      "channel": "Band",
+      "start_time": "00:00",
+      "program": "Jornal da Noite",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 0,
+      "end_min": 60,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "00:00",
+      "end_time": "01:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "01:00",
+      "program": "Esporte Total",
+      "raw_category": "Jornalismo/Esportivo",
+      "start_min": 60,
+      "end_min": 120,
+      "duration_min": 60,
+      "genre": "Esportivo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "01:00",
+      "end_time": "02:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "02:00",
+      "program": "Igreja Universal do Reino de Deus",
+      "raw_category": "Variedades/Religião",
+      "start_min": 120,
+      "end_min": 240,
+      "duration_min": 120,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 2.0,
+      "start_label": "02:00",
+      "end_time": "04:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "04:00",
+      "program": "Igreja Universal do Reino de Deus",
+      "raw_category": "Variedades/Religião",
+      "start_min": 240,
+      "end_min": 480,
+      "duration_min": 240,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 4.0,
+      "start_label": "04:00",
+      "end_time": "08:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "08:00",
+      "program": "Agro Band",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 480,
+      "end_min": 495,
+      "duration_min": 15,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.25,
+      "start_label": "08:00",
+      "end_time": "08:15"
+    },
+    {
+      "channel": "Band",
+      "start_time": "08:15",
+      "program": "Oração do Dia com Profeta Vinícius Iracet",
+      "raw_category": "Variedades/Religião",
+      "start_min": 495,
+      "end_min": 500,
+      "duration_min": 5,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 0.08333333333333333,
+      "start_label": "08:15",
+      "end_time": "08:20"
+    },
+    {
+      "channel": "Band",
+      "start_time": "08:20",
+      "program": "Bora Brasil",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 500,
+      "end_min": 660,
+      "duration_min": 160,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.6666666666666665,
+      "start_label": "08:20",
+      "end_time": "11:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "11:00",
+      "program": "Jogo Aberto",
+      "raw_category": "Jornalismo/Esportivo",
+      "start_min": 660,
+      "end_min": 720,
+      "duration_min": 60,
+      "genre": "Esportivo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "11:00",
+      "end_time": "12:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "12:00",
+      "program": "Os Donos da Bola - Rio de Janeiro",
+      "raw_category": "Jornalismo/Esportivo",
+      "start_min": 720,
+      "end_min": 810,
+      "duration_min": 90,
+      "genre": "Esportivo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.5,
+      "start_label": "12:00",
+      "end_time": "13:30"
+    },
+    {
+      "channel": "Band",
+      "start_time": "13:30",
+      "program": "Vem Com a Gente com Gardênia Cavalcanti",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 810,
+      "end_min": 870,
+      "duration_min": 60,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 1.0,
+      "start_label": "13:30",
+      "end_time": "14:30"
+    },
+    {
+      "channel": "Band",
+      "start_time": "14:30",
+      "program": "Melhor Da Tarde",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 870,
+      "end_min": 960,
+      "duration_min": 90,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 1.5,
+      "start_label": "14:30",
+      "end_time": "16:00"
+    },
+    {
+      "channel": "Band",
+      "start_time": "16:00",
+      "program": "Brasil Urgente",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 960,
+      "end_min": 1050,
+      "duration_min": 90,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.5,
+      "start_label": "16:00",
+      "end_time": "17:30"
+    },
+    {
+      "channel": "Band",
+      "start_time": "17:30",
+      "program": "Brasil Urgente Rio",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1050,
+      "end_min": 1120,
+      "duration_min": 70,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.1666666666666667,
+      "start_label": "17:30",
+      "end_time": "18:40"
+    },
+    {
+      "channel": "Band",
+      "start_time": "18:40",
+      "program": "Jornal do Rio",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1120,
+      "end_min": 1160,
+      "duration_min": 40,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.6666666666666666,
+      "start_label": "18:40",
+      "end_time": "19:20"
+    },
+    {
+      "channel": "Band",
+      "start_time": "19:20",
+      "program": "Jornal da Band",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1160,
+      "end_min": 1230,
+      "duration_min": 70,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.1666666666666667,
+      "start_label": "19:20",
+      "end_time": "20:30"
+    },
+    {
+      "channel": "Band",
+      "start_time": "20:30",
+      "program": "Guerra das Rosas",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1230,
+      "end_min": 1285,
+      "duration_min": 55,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.9166666666666666,
+      "start_label": "20:30",
+      "end_time": "21:25"
+    },
+    {
+      "channel": "Band",
+      "start_time": "21:25",
+      "program": "Show da Fé",
+      "raw_category": "Variedades/Religião",
+      "start_min": 1285,
+      "end_min": 1340,
+      "duration_min": 55,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 0.9166666666666666,
+      "start_label": "21:25",
+      "end_time": "22:20"
+    },
+    {
+      "channel": "Band",
+      "start_time": "22:20",
+      "program": "Linha de Combate",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 1340,
+      "end_min": 1395,
+      "duration_min": 55,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.9166666666666666,
+      "start_label": "22:20",
+      "end_time": "23:15"
+    },
+    {
+      "channel": "Band",
+      "start_time": "23:15",
+      "program": "Dona Beja",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1395,
+      "end_min": 1440,
+      "duration_min": 45,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.75,
+      "start_label": "23:15",
+      "end_time": "24:00"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "00:00",
+      "program": "Jornal da Globo",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 0,
+      "end_min": 40,
+      "duration_min": 40,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.6666666666666666,
+      "start_label": "00:00",
+      "end_time": "00:40"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "00:40",
+      "program": "A Nobreza do Amor",
+      "raw_category": "Variedades/Novela",
+      "start_min": 40,
+      "end_min": 80,
+      "duration_min": 40,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.6666666666666666,
+      "start_label": "00:40",
+      "end_time": "01:20"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "01:20",
+      "program": "Coração Acelerado",
+      "raw_category": "Variedades/Novela",
+      "start_min": 80,
+      "end_min": 125,
+      "duration_min": 45,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.75,
+      "start_label": "01:20",
+      "end_time": "02:05"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "02:05",
+      "program": "Comédia Na Madruga - Vai Que Cola I",
+      "raw_category": "Séries/Humor",
+      "start_min": 125,
+      "end_min": 165,
+      "duration_min": 40,
+      "genre": "Humor",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.6666666666666666,
+      "start_label": "02:05",
+      "end_time": "02:45"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "02:45",
+      "program": "Corujão: O Pai da Rita",
+      "raw_category": "Filme/Comédia",
+      "start_min": 165,
+      "end_min": 360,
+      "duration_min": 195,
+      "genre": "Filme",
+      "cluster": "Ficção",
+      "hours": 3.25,
+      "start_label": "02:45",
+      "end_time": "06:00"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "06:00",
+      "program": "Hora Um",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 360,
+      "end_min": 510,
+      "duration_min": 150,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.5,
+      "start_label": "06:00",
+      "end_time": "08:30"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "08:30",
+      "program": "Bom Dia Brasil",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 510,
+      "end_min": 570,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "08:30",
+      "end_time": "09:30"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "09:30",
+      "program": "Encontro com Patrícia Poeta",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 570,
+      "end_min": 635,
+      "duration_min": 65,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 1.0833333333333333,
+      "start_label": "09:30",
+      "end_time": "10:35"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "10:35",
+      "program": "Mais Você",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 635,
+      "end_min": 705,
+      "duration_min": 70,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 1.1666666666666667,
+      "start_label": "10:35",
+      "end_time": "11:45"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "11:45",
+      "program": "RJ1",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 705,
+      "end_min": 780,
+      "duration_min": 75,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.25,
+      "start_label": "11:45",
+      "end_time": "13:00"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "13:00",
+      "program": "Globo Esporte",
+      "raw_category": "Jornalismo/Esportivo",
+      "start_min": 780,
+      "end_min": 805,
+      "duration_min": 25,
+      "genre": "Esportivo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.4166666666666667,
+      "start_label": "13:00",
+      "end_time": "13:25"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "13:25",
+      "program": "Jornal Hoje",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 805,
+      "end_min": 885,
+      "duration_min": 80,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.3333333333333333,
+      "start_label": "13:25",
+      "end_time": "14:45"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "14:45",
+      "program": "Terra Nostra",
+      "raw_category": "Variedades/Novela",
+      "start_min": 885,
+      "end_min": 925,
+      "duration_min": 40,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.6666666666666666,
+      "start_label": "14:45",
+      "end_time": "15:25"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "15:25",
+      "program": "Sessão da Tarde: Nosso Amigo Extraordinário",
+      "raw_category": "Filme/Ficção",
+      "start_min": 925,
+      "end_min": 1025,
+      "duration_min": 100,
+      "genre": "Filme",
+      "cluster": "Ficção",
+      "hours": 1.6666666666666667,
+      "start_label": "15:25",
+      "end_time": "17:05"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "17:05",
+      "program": "Vale a Pena Ver de Novo: Rainha da Sucata",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1025,
+      "end_min": 1075,
+      "duration_min": 50,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.8333333333333334,
+      "start_label": "17:05",
+      "end_time": "17:55"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "17:55",
+      "program": "Vale a Pena Ver de Novo: Avenida Brasil",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1075,
+      "end_min": 1105,
+      "duration_min": 30,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.5,
+      "start_label": "17:55",
+      "end_time": "18:25"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "18:25",
+      "program": "A Nobreza do Amor",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1105,
+      "end_min": 1150,
+      "duration_min": 45,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.75,
+      "start_label": "18:25",
+      "end_time": "19:10"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "19:10",
+      "program": "RJ2",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1150,
+      "end_min": 1180,
+      "duration_min": 30,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.5,
+      "start_label": "19:10",
+      "end_time": "19:40"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "19:40",
+      "program": "Coração Acelerado",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1180,
+      "end_min": 1230,
+      "duration_min": 50,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.8333333333333334,
+      "start_label": "19:40",
+      "end_time": "20:30"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "20:30",
+      "program": "Jornal Nacional",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1230,
+      "end_min": 1280,
+      "duration_min": 50,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.8333333333333334,
+      "start_label": "20:30",
+      "end_time": "21:20"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "21:20",
+      "program": "Três Graças",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1280,
+      "end_min": 1345,
+      "duration_min": 65,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.0833333333333333,
+      "start_label": "21:20",
+      "end_time": "22:25"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "22:25",
+      "program": "Big Brother Brasil 26",
+      "raw_category": "Séries/Reality Show",
+      "start_min": 1345,
+      "end_min": 1380,
+      "duration_min": 35,
+      "genre": "Reality",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.5833333333333334,
+      "start_label": "22:25",
+      "end_time": "23:00"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "23:00",
+      "program": "Globo Repórter",
+      "raw_category": "Séries/Documentário",
+      "start_min": 1380,
+      "end_min": 1430,
+      "duration_min": 50,
+      "genre": "Documentário",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.8333333333333334,
+      "start_label": "23:00",
+      "end_time": "23:50"
+    },
+    {
+      "channel": "Globo",
+      "start_time": "23:50",
+      "program": "Jornal da Globo",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1430,
+      "end_min": 1440,
+      "duration_min": 10,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.16666666666666666,
+      "start_label": "23:50",
+      "end_time": "24:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "00:00",
+      "program": "Chicago Med",
+      "raw_category": "Séries/Drama",
+      "start_min": 0,
+      "end_min": 15,
+      "duration_min": 15,
+      "genre": "Série/Drama",
+      "cluster": "Ficção",
+      "hours": 0.25,
+      "start_label": "00:00",
+      "end_time": "00:15"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "00:15",
+      "program": "Jornal da Record 24h",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 15,
+      "end_min": 45,
+      "duration_min": 30,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.5,
+      "start_label": "00:15",
+      "end_time": "00:45"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "00:45",
+      "program": "Fala que eu te Escuto",
+      "raw_category": "Variedades/Religião",
+      "start_min": 45,
+      "end_min": 120,
+      "duration_min": 75,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 1.25,
+      "start_label": "00:45",
+      "end_time": "02:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "02:00",
+      "program": "IURD - Inteligência e Fé",
+      "raw_category": "Variedades/Religião",
+      "start_min": 120,
+      "end_min": 150,
+      "duration_min": 30,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 0.5,
+      "start_label": "02:00",
+      "end_time": "02:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "02:30",
+      "program": "IURD - Palavra Amiga",
+      "raw_category": "Variedades/Religião",
+      "start_min": 150,
+      "end_min": 210,
+      "duration_min": 60,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 1.0,
+      "start_label": "02:30",
+      "end_time": "03:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "03:30",
+      "program": "Programação IURD",
+      "raw_category": "Variedades/Religião",
+      "start_min": 210,
+      "end_min": 300,
+      "duration_min": 90,
+      "genre": "Religioso",
+      "cluster": "Religioso",
+      "hours": 1.5,
+      "start_label": "03:30",
+      "end_time": "05:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "05:00",
+      "program": "Balanço Geral Manhã",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 300,
+      "end_min": 420,
+      "duration_min": 120,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.0,
+      "start_label": "05:00",
+      "end_time": "07:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "07:00",
+      "program": "Jornal da Record 24h",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 420,
+      "end_min": 425,
+      "duration_min": 5,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.08333333333333333,
+      "start_label": "07:00",
+      "end_time": "07:05"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "07:05",
+      "program": "Balanço Geral Manhã",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 425,
+      "end_min": 450,
+      "duration_min": 25,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.4166666666666667,
+      "start_label": "07:05",
+      "end_time": "07:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "07:30",
+      "program": "Balanço Geral Manhã - SP",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 450,
+      "end_min": 510,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "07:30",
+      "end_time": "08:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "08:30",
+      "program": "Fala Brasil",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 510,
+      "end_min": 570,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "08:30",
+      "end_time": "09:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "09:30",
+      "program": "Hoje em Dia",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 570,
+      "end_min": 690,
+      "duration_min": 120,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.0,
+      "start_label": "09:30",
+      "end_time": "11:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "11:30",
+      "program": "Balanço Geral - SP",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 690,
+      "end_min": 930,
+      "duration_min": 240,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 4.0,
+      "start_label": "11:30",
+      "end_time": "15:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "15:30",
+      "program": "A Escrava Isaura",
+      "raw_category": "Variedades/Novela",
+      "start_min": 930,
+      "end_min": 990,
+      "duration_min": 60,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.0,
+      "start_label": "15:30",
+      "end_time": "16:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "16:30",
+      "program": "Cidade Alerta",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 990,
+      "end_min": 1030,
+      "duration_min": 40,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.6666666666666666,
+      "start_label": "16:30",
+      "end_time": "17:10"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "17:10",
+      "program": "Jornal da Record 24h",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1030,
+      "end_min": 1035,
+      "duration_min": 5,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.08333333333333333,
+      "start_label": "17:10",
+      "end_time": "17:15"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "17:15",
+      "program": "Cidade Alerta",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1035,
+      "end_min": 1060,
+      "duration_min": 25,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.4166666666666667,
+      "start_label": "17:15",
+      "end_time": "17:40"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "17:40",
+      "program": "Jornal da Record 24h",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1060,
+      "end_min": 1065,
+      "duration_min": 5,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.08333333333333333,
+      "start_label": "17:40",
+      "end_time": "17:45"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "17:45",
+      "program": "Cidade Alerta",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1065,
+      "end_min": 1080,
+      "duration_min": 15,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.25,
+      "start_label": "17:45",
+      "end_time": "18:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "18:00",
+      "program": "Cidade Alerta",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1080,
+      "end_min": 1130,
+      "duration_min": 50,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 0.8333333333333334,
+      "start_label": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "18:50",
+      "program": "Cidade Alerta",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1130,
+      "end_min": 1195,
+      "duration_min": 65,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0833333333333333,
+      "start_label": "18:50",
+      "end_time": "19:55"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "19:55",
+      "program": "Jornal da Record",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1195,
+      "end_min": 1260,
+      "duration_min": 65,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0833333333333333,
+      "start_label": "19:55",
+      "end_time": "21:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "21:00",
+      "program": "Coração de Mãe",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1260,
+      "end_min": 1320,
+      "duration_min": 60,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.0,
+      "start_label": "21:00",
+      "end_time": "22:00"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "22:00",
+      "program": "Reis - A Consequência",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1320,
+      "end_min": 1350,
+      "duration_min": 30,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 0.5,
+      "start_label": "22:00",
+      "end_time": "22:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "22:30",
+      "program": "Chamas do Destino",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1350,
+      "end_min": 1410,
+      "duration_min": 60,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.0,
+      "start_label": "22:30",
+      "end_time": "23:30"
+    },
+    {
+      "channel": "Record TV",
+      "start_time": "23:30",
+      "program": "Chicago Med",
+      "raw_category": "Séries/Drama",
+      "start_min": 1410,
+      "end_min": 1440,
+      "duration_min": 30,
+      "genre": "Série/Drama",
+      "cluster": "Ficção",
+      "hours": 0.5,
+      "start_label": "23:30",
+      "end_time": "24:00"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "00:00",
+      "program": "The Noite com Danilo Gentili",
+      "raw_category": "Variedades/Humor",
+      "start_min": 0,
+      "end_min": 45,
+      "duration_min": 45,
+      "genre": "Humor",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.75,
+      "start_label": "00:00",
+      "end_time": "00:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "00:45",
+      "program": "Operação Mesquita",
+      "raw_category": "Variedades/Entrevista",
+      "start_min": 45,
+      "end_min": 75,
+      "duration_min": 30,
+      "genre": "Entrevista",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.5,
+      "start_label": "00:45",
+      "end_time": "01:15"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "01:15",
+      "program": "Notícias Impressionantes",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 75,
+      "end_min": 135,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "01:15",
+      "end_time": "02:15"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "02:15",
+      "program": "SBT Notícias",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 135,
+      "end_min": 360,
+      "duration_min": 225,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 3.75,
+      "start_label": "02:15",
+      "end_time": "06:00"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "06:00",
+      "program": "Se Liga Brasil",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 360,
+      "end_min": 510,
+      "duration_min": 150,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.5,
+      "start_label": "06:00",
+      "end_time": "08:30"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "08:30",
+      "program": "Primeiro Impacto",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 510,
+      "end_min": 690,
+      "duration_min": 180,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 3.0,
+      "start_label": "08:30",
+      "end_time": "11:30"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "11:30",
+      "program": "Alô Você",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 690,
+      "end_min": 825,
+      "duration_min": 135,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 2.25,
+      "start_label": "11:30",
+      "end_time": "13:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "13:45",
+      "program": "Meu Coração é Teu",
+      "raw_category": "Variedades/Novela",
+      "start_min": 825,
+      "end_min": 930,
+      "duration_min": 105,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.75,
+      "start_label": "13:45",
+      "end_time": "15:30"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "15:30",
+      "program": "Fofocalizando",
+      "raw_category": "Variedades/Informativo",
+      "start_min": 930,
+      "end_min": 1020,
+      "duration_min": 90,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.5,
+      "start_label": "15:30",
+      "end_time": "17:00"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "17:00",
+      "program": "Coração Indomável",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1020,
+      "end_min": 1110,
+      "duration_min": 90,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.5,
+      "start_label": "17:00",
+      "end_time": "18:30"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "18:30",
+      "program": "Aqui Agora",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1110,
+      "end_min": 1170,
+      "duration_min": 60,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.0,
+      "start_label": "18:30",
+      "end_time": "19:30"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "19:30",
+      "program": "SBT Brasil",
+      "raw_category": "Jornalismo/Informativo",
+      "start_min": 1170,
+      "end_min": 1245,
+      "duration_min": 75,
+      "genre": "Jornalismo",
+      "cluster": "Jornalismo & Esporte",
+      "hours": 1.25,
+      "start_label": "19:30",
+      "end_time": "20:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "20:45",
+      "program": "Presente de Amor",
+      "raw_category": "Variedades/Novela",
+      "start_min": 1245,
+      "end_min": 1305,
+      "duration_min": 60,
+      "genre": "Novela",
+      "cluster": "Ficção",
+      "hours": 1.0,
+      "start_label": "20:45",
+      "end_time": "21:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "21:45",
+      "program": "Programa do Ratinho",
+      "raw_category": "Variedades/Diversos",
+      "start_min": 1305,
+      "end_min": 1365,
+      "duration_min": 60,
+      "genre": "Variedades",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 1.0,
+      "start_label": "21:45",
+      "end_time": "22:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "22:45",
+      "program": "Impuros",
+      "raw_category": "Séries/Drama",
+      "start_min": 1365,
+      "end_min": 1425,
+      "duration_min": 60,
+      "genre": "Série/Drama",
+      "cluster": "Ficção",
+      "hours": 1.0,
+      "start_label": "22:45",
+      "end_time": "23:45"
+    },
+    {
+      "channel": "SBT",
+      "start_time": "23:45",
+      "program": "The Noite com Danilo Gentili",
+      "raw_category": "Variedades/Humor",
+      "start_min": 1425,
+      "end_min": 1440,
+      "duration_min": 15,
+      "genre": "Humor",
+      "cluster": "Variedades & Entretenimento",
+      "hours": 0.25,
+      "start_label": "23:45",
+      "end_time": "24:00"
+    }
+  ],
+  "hourly": [
+    {
+      "channel": "Band",
+      "hour": 0,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Noite",
+      "minutes": 60,
+      "label": "00:00–01:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 1,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Esportivo",
+      "dominant_program": "Esporte Total",
+      "minutes": 60,
+      "label": "01:00–02:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 2,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "02:00–03:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 3,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "03:00–04:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 4,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "04:00–05:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 5,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "05:00–06:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 6,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "06:00–07:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 7,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Igreja Universal do Reino de Deus",
+      "minutes": 60,
+      "label": "07:00–08:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 8,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Bora Brasil",
+      "minutes": 40,
+      "label": "08:00–09:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 9,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Bora Brasil",
+      "minutes": 60,
+      "label": "09:00–10:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 10,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Bora Brasil",
+      "minutes": 60,
+      "label": "10:00–11:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 11,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Esportivo",
+      "dominant_program": "Jogo Aberto",
+      "minutes": 60,
+      "label": "11:00–12:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 12,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Esportivo",
+      "dominant_program": "Os Donos da Bola - Rio de Janeiro",
+      "minutes": 60,
+      "label": "12:00–13:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 13,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Esportivo",
+      "dominant_program": "Os Donos da Bola - Rio de Janeiro",
+      "minutes": 30,
+      "label": "13:00–14:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 14,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Vem Com a Gente com Gardênia Cavalcanti",
+      "minutes": 30,
+      "label": "14:00–15:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 15,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Melhor Da Tarde",
+      "minutes": 60,
+      "label": "15:00–16:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 16,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Brasil Urgente",
+      "minutes": 60,
+      "label": "16:00–17:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 17,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Brasil Urgente",
+      "minutes": 30,
+      "label": "17:00–18:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 18,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Brasil Urgente Rio",
+      "minutes": 40,
+      "label": "18:00–19:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 19,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Band",
+      "minutes": 40,
+      "label": "19:00–20:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 20,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Band",
+      "minutes": 30,
+      "label": "20:00–21:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 21,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Show da Fé",
+      "minutes": 35,
+      "label": "21:00–22:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 22,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Linha de Combate",
+      "minutes": 40,
+      "label": "22:00–23:00"
+    },
+    {
+      "channel": "Band",
+      "hour": 23,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Dona Beja",
+      "minutes": 45,
+      "label": "23:00–24:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 0,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Globo",
+      "minutes": 40,
+      "label": "00:00–01:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 1,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Coração Acelerado",
+      "minutes": 40,
+      "label": "01:00–02:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 2,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Humor",
+      "dominant_program": "Comédia Na Madruga - Vai Que Cola I",
+      "minutes": 40,
+      "label": "02:00–03:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 3,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Filme",
+      "dominant_program": "Corujão: O Pai da Rita",
+      "minutes": 60,
+      "label": "03:00–04:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 4,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Filme",
+      "dominant_program": "Corujão: O Pai da Rita",
+      "minutes": 60,
+      "label": "04:00–05:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 5,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Filme",
+      "dominant_program": "Corujão: O Pai da Rita",
+      "minutes": 60,
+      "label": "05:00–06:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 6,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Hora Um",
+      "minutes": 60,
+      "label": "06:00–07:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 7,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Hora Um",
+      "minutes": 60,
+      "label": "07:00–08:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 8,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Hora Um",
+      "minutes": 30,
+      "label": "08:00–09:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 9,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Bom Dia Brasil",
+      "minutes": 30,
+      "label": "09:00–10:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 10,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Encontro com Patrícia Poeta",
+      "minutes": 35,
+      "label": "10:00–11:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 11,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Mais Você",
+      "minutes": 45,
+      "label": "11:00–12:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 12,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "RJ1",
+      "minutes": 60,
+      "label": "12:00–13:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 13,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal Hoje",
+      "minutes": 35,
+      "label": "13:00–14:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 14,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal Hoje",
+      "minutes": 45,
+      "label": "14:00–15:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 15,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Filme",
+      "dominant_program": "Sessão da Tarde: Nosso Amigo Extraordinário",
+      "minutes": 35,
+      "label": "15:00–16:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 16,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Filme",
+      "dominant_program": "Sessão da Tarde: Nosso Amigo Extraordinário",
+      "minutes": 60,
+      "label": "16:00–17:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 17,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Vale a Pena Ver de Novo: Rainha da Sucata",
+      "minutes": 50,
+      "label": "17:00–18:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 18,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "A Nobreza do Amor",
+      "minutes": 35,
+      "label": "18:00–19:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 19,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "RJ2",
+      "minutes": 30,
+      "label": "19:00–20:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 20,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Coração Acelerado",
+      "minutes": 30,
+      "label": "20:00–21:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 21,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Três Graças",
+      "minutes": 40,
+      "label": "21:00–22:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 22,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Reality",
+      "dominant_program": "Big Brother Brasil 26",
+      "minutes": 35,
+      "label": "22:00–23:00"
+    },
+    {
+      "channel": "Globo",
+      "hour": 23,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Documentário",
+      "dominant_program": "Globo Repórter",
+      "minutes": 50,
+      "label": "23:00–24:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 0,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Record 24h",
+      "minutes": 30,
+      "label": "00:00–01:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 1,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Fala que eu te Escuto",
+      "minutes": 60,
+      "label": "01:00–02:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 2,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "IURD - Inteligência e Fé",
+      "minutes": 30,
+      "label": "02:00–03:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 3,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "IURD - Palavra Amiga",
+      "minutes": 30,
+      "label": "03:00–04:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 4,
+      "dominant_cluster": "Religioso",
+      "dominant_genre": "Religioso",
+      "dominant_program": "Programação IURD",
+      "minutes": 60,
+      "label": "04:00–05:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 5,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral Manhã",
+      "minutes": 60,
+      "label": "05:00–06:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 6,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral Manhã",
+      "minutes": 60,
+      "label": "06:00–07:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 7,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral Manhã - SP",
+      "minutes": 30,
+      "label": "07:00–08:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 8,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral Manhã - SP",
+      "minutes": 30,
+      "label": "08:00–09:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 9,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Fala Brasil",
+      "minutes": 30,
+      "label": "09:00–10:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 10,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Hoje em Dia",
+      "minutes": 60,
+      "label": "10:00–11:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 11,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Hoje em Dia",
+      "minutes": 30,
+      "label": "11:00–12:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 12,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral - SP",
+      "minutes": 60,
+      "label": "12:00–13:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 13,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral - SP",
+      "minutes": 60,
+      "label": "13:00–14:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 14,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral - SP",
+      "minutes": 60,
+      "label": "14:00–15:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 15,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Balanço Geral - SP",
+      "minutes": 30,
+      "label": "15:00–16:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 16,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "A Escrava Isaura",
+      "minutes": 30,
+      "label": "16:00–17:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 17,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Cidade Alerta",
+      "minutes": 25,
+      "label": "17:00–18:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 18,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Cidade Alerta",
+      "minutes": 50,
+      "label": "18:00–19:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 19,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Cidade Alerta",
+      "minutes": 55,
+      "label": "19:00–20:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 20,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Jornal da Record",
+      "minutes": 60,
+      "label": "20:00–21:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 21,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Coração de Mãe",
+      "minutes": 60,
+      "label": "21:00–22:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 22,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Reis - A Consequência",
+      "minutes": 30,
+      "label": "22:00–23:00"
+    },
+    {
+      "channel": "Record TV",
+      "hour": 23,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Chamas do Destino",
+      "minutes": 30,
+      "label": "23:00–24:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 0,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Humor",
+      "dominant_program": "The Noite com Danilo Gentili",
+      "minutes": 45,
+      "label": "00:00–01:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 1,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Notícias Impressionantes",
+      "minutes": 45,
+      "label": "01:00–02:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 2,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "SBT Notícias",
+      "minutes": 45,
+      "label": "02:00–03:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 3,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "SBT Notícias",
+      "minutes": 60,
+      "label": "03:00–04:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 4,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "SBT Notícias",
+      "minutes": 60,
+      "label": "04:00–05:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 5,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "SBT Notícias",
+      "minutes": 60,
+      "label": "05:00–06:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 6,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Se Liga Brasil",
+      "minutes": 60,
+      "label": "06:00–07:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 7,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Se Liga Brasil",
+      "minutes": 60,
+      "label": "07:00–08:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 8,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Se Liga Brasil",
+      "minutes": 30,
+      "label": "08:00–09:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 9,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Primeiro Impacto",
+      "minutes": 60,
+      "label": "09:00–10:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 10,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Primeiro Impacto",
+      "minutes": 60,
+      "label": "10:00–11:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 11,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Primeiro Impacto",
+      "minutes": 30,
+      "label": "11:00–12:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 12,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Alô Você",
+      "minutes": 60,
+      "label": "12:00–13:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 13,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Alô Você",
+      "minutes": 45,
+      "label": "13:00–14:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 14,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Meu Coração é Teu",
+      "minutes": 60,
+      "label": "14:00–15:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 15,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Meu Coração é Teu",
+      "minutes": 30,
+      "label": "15:00–16:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 16,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Fofocalizando",
+      "minutes": 60,
+      "label": "16:00–17:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 17,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Coração Indomável",
+      "minutes": 60,
+      "label": "17:00–18:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 18,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Coração Indomável",
+      "minutes": 30,
+      "label": "18:00–19:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 19,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "Aqui Agora",
+      "minutes": 30,
+      "label": "19:00–20:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 20,
+      "dominant_cluster": "Jornalismo & Esporte",
+      "dominant_genre": "Jornalismo",
+      "dominant_program": "SBT Brasil",
+      "minutes": 45,
+      "label": "20:00–21:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 21,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Novela",
+      "dominant_program": "Presente de Amor",
+      "minutes": 45,
+      "label": "21:00–22:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 22,
+      "dominant_cluster": "Variedades & Entretenimento",
+      "dominant_genre": "Variedades",
+      "dominant_program": "Programa do Ratinho",
+      "minutes": 45,
+      "label": "22:00–23:00"
+    },
+    {
+      "channel": "SBT",
+      "hour": 23,
+      "dominant_cluster": "Ficção",
+      "dominant_genre": "Série/Drama",
+      "dominant_program": "Impuros",
+      "minutes": 45,
+      "label": "23:00–24:00"
+    }
+  ],
+  "summary_cluster": [
+    {
+      "channel": "Band",
+      "cluster": "Ficção",
+      "duration_min": 100
+    },
+    {
+      "channel": "Band",
+      "cluster": "Jornalismo & Esporte",
+      "duration_min": 715
+    },
+    {
+      "channel": "Band",
+      "cluster": "Religioso",
+      "duration_min": 420
+    },
+    {
+      "channel": "Band",
+      "cluster": "Variedades & Entretenimento",
+      "duration_min": 205
+    },
+    {
+      "channel": "Globo",
+      "cluster": "Ficção",
+      "duration_min": 660
+    },
+    {
+      "channel": "Globo",
+      "cluster": "Jornalismo & Esporte",
+      "duration_min": 520
+    },
+    {
+      "channel": "Globo",
+      "cluster": "Variedades & Entretenimento",
+      "duration_min": 260
+    },
+    {
+      "channel": "Record TV",
+      "cluster": "Ficção",
+      "duration_min": 255
+    },
+    {
+      "channel": "Record TV",
+      "cluster": "Jornalismo & Esporte",
+      "duration_min": 930
+    },
+    {
+      "channel": "Record TV",
+      "cluster": "Religioso",
+      "duration_min": 255
+    },
+    {
+      "channel": "SBT",
+      "cluster": "Ficção",
+      "duration_min": 315
+    },
+    {
+      "channel": "SBT",
+      "cluster": "Jornalismo & Esporte",
+      "duration_min": 975
+    },
+    {
+      "channel": "SBT",
+      "cluster": "Variedades & Entretenimento",
+      "duration_min": 150
+    }
+  ],
+  "summary_genre": [
+    {
+      "channel": "Band",
+      "genre": "Esportivo",
+      "duration_min": 210
+    },
+    {
+      "channel": "Band",
+      "genre": "Jornalismo",
+      "duration_min": 505
+    },
+    {
+      "channel": "Band",
+      "genre": "Novela",
+      "duration_min": 100
+    },
+    {
+      "channel": "Band",
+      "genre": "Religioso",
+      "duration_min": 420
+    },
+    {
+      "channel": "Band",
+      "genre": "Variedades",
+      "duration_min": 205
+    },
+    {
+      "channel": "Globo",
+      "genre": "Documentário",
+      "duration_min": 50
+    },
+    {
+      "channel": "Globo",
+      "genre": "Esportivo",
+      "duration_min": 25
+    },
+    {
+      "channel": "Globo",
+      "genre": "Filme",
+      "duration_min": 295
+    },
+    {
+      "channel": "Globo",
+      "genre": "Humor",
+      "duration_min": 40
+    },
+    {
+      "channel": "Globo",
+      "genre": "Jornalismo",
+      "duration_min": 495
+    },
+    {
+      "channel": "Globo",
+      "genre": "Novela",
+      "duration_min": 365
+    },
+    {
+      "channel": "Globo",
+      "genre": "Reality",
+      "duration_min": 35
+    },
+    {
+      "channel": "Globo",
+      "genre": "Variedades",
+      "duration_min": 135
+    },
+    {
+      "channel": "Record TV",
+      "genre": "Jornalismo",
+      "duration_min": 930
+    },
+    {
+      "channel": "Record TV",
+      "genre": "Novela",
+      "duration_min": 210
+    },
+    {
+      "channel": "Record TV",
+      "genre": "Religioso",
+      "duration_min": 255
+    },
+    {
+      "channel": "Record TV",
+      "genre": "Série/Drama",
+      "duration_min": 45
+    },
+    {
+      "channel": "SBT",
+      "genre": "Entrevista",
+      "duration_min": 30
+    },
+    {
+      "channel": "SBT",
+      "genre": "Humor",
+      "duration_min": 60
+    },
+    {
+      "channel": "SBT",
+      "genre": "Jornalismo",
+      "duration_min": 975
+    },
+    {
+      "channel": "SBT",
+      "genre": "Novela",
+      "duration_min": 255
+    },
+    {
+      "channel": "SBT",
+      "genre": "Série/Drama",
+      "duration_min": 60
+    },
+    {
+      "channel": "SBT",
+      "genre": "Variedades",
+      "duration_min": 60
+    }
+  ],
+  "prime": [
+    {
+      "channel": "Band",
+      "program": "Brasil Urgente Rio",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 40
+    },
+    {
+      "channel": "Band",
+      "program": "Jornal do Rio",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 40
+    },
+    {
+      "channel": "Band",
+      "program": "Jornal da Band",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 70
+    },
+    {
+      "channel": "Band",
+      "program": "Guerra das Rosas",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 55
+    },
+    {
+      "channel": "Band",
+      "program": "Show da Fé",
+      "cluster": "Religioso",
+      "genre": "Religioso",
+      "minutes": 55
+    },
+    {
+      "channel": "Band",
+      "program": "Linha de Combate",
+      "cluster": "Variedades & Entretenimento",
+      "genre": "Variedades",
+      "minutes": 40
+    },
+    {
+      "channel": "Globo",
+      "program": "Vale a Pena Ver de Novo: Avenida Brasil",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 25
+    },
+    {
+      "channel": "Globo",
+      "program": "A Nobreza do Amor",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 45
+    },
+    {
+      "channel": "Globo",
+      "program": "RJ2",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 30
+    },
+    {
+      "channel": "Globo",
+      "program": "Coração Acelerado",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 50
+    },
+    {
+      "channel": "Globo",
+      "program": "Jornal Nacional",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 50
+    },
+    {
+      "channel": "Globo",
+      "program": "Três Graças",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 65
+    },
+    {
+      "channel": "Globo",
+      "program": "Big Brother Brasil 26",
+      "cluster": "Variedades & Entretenimento",
+      "genre": "Reality",
+      "minutes": 35
+    },
+    {
+      "channel": "Record TV",
+      "program": "Cidade Alerta",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 50
+    },
+    {
+      "channel": "Record TV",
+      "program": "Cidade Alerta",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 65
+    },
+    {
+      "channel": "Record TV",
+      "program": "Jornal da Record",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 65
+    },
+    {
+      "channel": "Record TV",
+      "program": "Coração de Mãe",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 60
+    },
+    {
+      "channel": "Record TV",
+      "program": "Reis - A Consequência",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 30
+    },
+    {
+      "channel": "Record TV",
+      "program": "Chamas do Destino",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 30
+    },
+    {
+      "channel": "SBT",
+      "program": "Coração Indomável",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 30
+    },
+    {
+      "channel": "SBT",
+      "program": "Aqui Agora",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 60
+    },
+    {
+      "channel": "SBT",
+      "program": "SBT Brasil",
+      "cluster": "Jornalismo & Esporte",
+      "genre": "Jornalismo",
+      "minutes": 75
+    },
+    {
+      "channel": "SBT",
+      "program": "Presente de Amor",
+      "cluster": "Ficção",
+      "genre": "Novela",
+      "minutes": 60
+    },
+    {
+      "channel": "SBT",
+      "program": "Programa do Ratinho",
+      "cluster": "Variedades & Entretenimento",
+      "genre": "Variedades",
+      "minutes": 60
+    },
+    {
+      "channel": "SBT",
+      "program": "Impuros",
+      "cluster": "Ficção",
+      "genre": "Série/Drama",
+      "minutes": 15
+    }
+  ],
+  "kpis": [
+    {
+      "channel": "Band",
+      "news_sport_pct": 49.7,
+      "fiction_pct": 6.9,
+      "religious_pct": 29.2,
+      "entertainment_pct": 14.2,
+      "program_count": 19,
+      "prime_news_minutes": 150,
+      "prime_fiction_minutes": 55
+    },
+    {
+      "channel": "Globo",
+      "news_sport_pct": 36.1,
+      "fiction_pct": 45.8,
+      "religious_pct": 0.0,
+      "entertainment_pct": 18.1,
+      "program_count": 24,
+      "prime_news_minutes": 80,
+      "prime_fiction_minutes": 185
+    },
+    {
+      "channel": "Record TV",
+      "news_sport_pct": 64.6,
+      "fiction_pct": 17.7,
+      "religious_pct": 17.7,
+      "entertainment_pct": 0.0,
+      "program_count": 26,
+      "prime_news_minutes": 180,
+      "prime_fiction_minutes": 120
+    },
+    {
+      "channel": "SBT",
+      "news_sport_pct": 67.7,
+      "fiction_pct": 21.9,
+      "religious_pct": 0.0,
+      "entertainment_pct": 10.4,
+      "program_count": 16,
+      "prime_news_minutes": 135,
+      "prime_fiction_minutes": 105
+    }
+  ],
+  "metadata": {
+    "project_title": "Guerra de Faixas Horárias",
+    "subtitle": "Snapshot comparativo da TV aberta brasileira em 02/04/2026",
+    "scope": "Quatro emissoras (Globo, SBT, Record TV e Band), grade de 00:00 a 24:00, com normalização editorial por gênero e macrocluster.",
+    "methodology": [
+      "Coleta manual e normalização a partir de páginas públicas de guia de programação.",
+      "Unidade de análise: minutos por programa/faixa.",
+      "Dia de referência: quinta-feira, 02/04/2026.",
+      "Clusters normalizados: Jornalismo & Esporte, Ficção, Variedades & Entretenimento, Religioso.",
+      "O projeto foi estruturado para receber novos dias e evoluir para série histórica."
+    ],
+    "sources": [
+      {
+        "label": "Globo - guia de programação",
+        "url": "https://meuguia.tv/programacao/canal/GRD"
+      },
+      {
+        "label": "SBT - guia de programação",
+        "url": "https://meuguia.tv/programacao/canal/SBT"
+      },
+      {
+        "label": "Record TV - guia de programação",
+        "url": "https://meuguia.tv/programacao/canal/REC"
+      },
+      {
+        "label": "Band - guia de programação",
+        "url": "https://meuguia.tv/programacao/canal/BAN"
+      },
+      {
+        "label": "TV Globo São Paulo - programação oficial",
+        "url": "https://redeglobo.globo.com/sao-paulo/programacao/"
+      },
+      {
+        "label": "SBT - programação oficial",
+        "url": "https://tv.sbt.com.br/programacao"
+      },
+      {
+        "label": "Record - programação oficial",
+        "url": "https://record.r7.com/programacao/"
+      },
+      {
+        "label": "Band - programação oficial",
+        "url": "https://www.band.com.br/programacao"
+      }
+    ],
+    "generated_at": "2026-04-02"
+  }
+}
