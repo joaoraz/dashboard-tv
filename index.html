@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guerra de Faixas Horárias — TV aberta brasileira</title>
+  <meta name="description" content="Dashboard interativo comparando a guerra de faixas horárias entre Globo, SBT, Record TV e Band em 02/04/2026.">
+  <link rel="preconnect" href="https://cdn.plot.ly">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow">dashboard editorial • tv aberta brasileira</div>
+        <h1>Guerra de Faixas Horárias</h1>
+        <p class="subtitle">Um raio-X interativo da grade de Globo, SBT, Record TV e Band em <strong>02/04/2026</strong>, transformado em uma leitura de programação, concentração editorial e disputa por atenção ao longo do dia.</p>
+        <div class="hero-tags">
+          <span>00:00 → 24:00</span>
+          <span>4 emissoras</span>
+          <span>1 snapshot estruturado</span>
+          <span>GitHub Pages ready</span>
+        </div>
+      </div>
+      <div class="hero-meta">
+        <div class="meta-card">
+          <div class="meta-label">escopo</div>
+          <div class="meta-value">TV aberta brasileira</div>
+        </div>
+        <div class="meta-card">
+          <div class="meta-label">recorte</div>
+          <div class="meta-value">quinta-feira, 2 abr 2026</div>
+        </div>
+        <div class="meta-card">
+          <div class="meta-label">unidade de análise</div>
+          <div class="meta-value">minutos por programa/faixa</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="insight-strip" id="headlineInsights"></section>
+
+    <section class="controls-panel">
+      <div class="control">
+        <label for="channelFilter">Canal em destaque</label>
+        <select id="channelFilter">
+          <option value="all">Todos</option>
+        </select>
+      </div>
+      <div class="control">
+        <label for="viewMode">Colorir por</label>
+        <select id="viewMode">
+          <option value="cluster">Macrocluster editorial</option>
+          <option value="genre">Gênero normalizado</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="section-grid">
+      <article class="card card-xl">
+        <div class="card-head">
+          <div>
+            <h2>Linha de batalha da grade</h2>
+            <p>Quem ocupa cada momento do dia e com qual tipo de conteúdo.</p>
+          </div>
+        </div>
+        <div id="timelineChart" class="chart chart-xl"></div>
+      </article>
+
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <h2>DNA editorial por canal</h2>
+            <p>Participação de cada macrocluster no dia.</p>
+          </div>
+        </div>
+        <div id="clusterShareChart" class="chart"></div>
+      </article>
+
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <h2>Radar de posicionamento</h2>
+            <p>Leitura rápida da assinatura de programação.</p>
+          </div>
+        </div>
+        <div id="radarChart" class="chart"></div>
+      </article>
+
+      <article class="card card-xl">
+        <div class="card-head">
+          <div>
+            <h2>Prime time showdown</h2>
+            <p>Entre 18h e 23h, onde cada emissora concentrou notícia, ficção ou entretenimento.</p>
+          </div>
+        </div>
+        <div id="primeTimeChart" class="chart"></div>
+      </article>
+
+      <article class="card card-xl">
+        <div class="card-head">
+          <div>
+            <h2>Dominância horária</h2>
+            <p>Macrocluster dominante por hora em cada canal.</p>
+          </div>
+        </div>
+        <div id="hourlyChart" class="chart chart-wide"></div>
+      </article>
+
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <h2>Fragmentação da grade</h2>
+            <p>Quantas viradas de programa cada emissora fez no dia.</p>
+          </div>
+        </div>
+        <div id="fragmentationChart" class="chart"></div>
+      </article>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <div>
+          <h2>Tabela exploratória da grade</h2>
+          <p>Filtre, ordene e use como base para cortes editoriais no LinkedIn.</p>
+        </div>
+      </div>
+      <div class="table-toolbar">
+        <input type="search" id="searchInput" placeholder="Buscar programa, canal ou gênero...">
+      </div>
+      <div class="table-wrap">
+        <table id="scheduleTable">
+          <thead>
+            <tr>
+              <th>Canal</th>
+              <th>Início</th>
+              <th>Fim</th>
+              <th>Programa</th>
+              <th>Gênero</th>
+              <th>Cluster</th>
+              <th>Duração</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="card notes-card">
+      <div class="card-head">
+        <div>
+          <h2>Metodologia e fontes</h2>
+          <p>Como este projeto foi construído e como escalar para série histórica.</p>
+        </div>
+      </div>
+      <div class="notes-grid">
+        <div>
+          <h3>Metodologia</h3>
+          <ul id="methodList"></ul>
+        </div>
+        <div>
+          <h3>Fontes públicas utilizadas</h3>
+          <ul id="sourceList" class="source-list"></ul>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
