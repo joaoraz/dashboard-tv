@@ -615,10 +615,11 @@ document.addEventListener('DOMContentLoaded', async ()=>{
     const data = await res.json();
     initDashboard(data);
   } catch (err) {
-    console.error('Falha ao carregar dados do dashboard', err);
+    console.error('Falha ao inicializar o dashboard', err);
     const el = document.getElementById('headlineInsights');
+    const msg = (err && err.message) ? err.message : String(err);
     if (el) {
-      el.innerHTML = '<div class="insight" style="grid-column:1/-1"><div class="label">erro de carregamento</div><div class="value">Não foi possível carregar os dados</div><div class="desc">Abra via GitHub Pages/servidor local ou use a versão standalone deste projeto.</div></div>';
+      el.innerHTML = '<div class="insight" style="grid-column:1/-1"><div class="label">erro de inicialização</div><div class="value">O HTML abriu, mas o script não conseguiu renderizar o painel</div><div class="desc">Detalhe técnico: ' + msg.replace(/</g, '&lt;') + '. Para web, publique via GitHub Pages ou use raw.githack.</div></div>';
     }
   }
 });
